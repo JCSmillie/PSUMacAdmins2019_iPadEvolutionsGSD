@@ -4,7 +4,6 @@ This branch is dedicated to my Penn State MacAdmins 2019 presentation titled *iP
 Questions?  I can be reached here:
 * Email-> jsmillie@gatewayk12.org
 * Slack-> @jsmillie on the MacAdmins channel
-* Reddit-> u/MyAppropriateAcct
 
 
 Thanks!
